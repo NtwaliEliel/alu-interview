@@ -1,3 +1,9 @@
+#!/usr/bin/python3
+"""
+0_rain
+"""
+
+
 def rain(walls):
     if not walls:
         return 0
